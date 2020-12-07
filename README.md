@@ -1,12 +1,12 @@
-# customer_transactions_history
+### customer_transactions_history
 
-# Aligning on Expectations
+### Aligning on Expectations
 
 The purpose of this test is to assess your problem solving skills (see https://i.datachef.co/problem-solvers), creativity and experience in tackling a data science question. 
 
 You don't need to finish the assignment 100% or perfect your code before posting it. Partial and incomplete solutions will be reviewed as well.
 
-# Feel free to impress your future teammates with your skills in:
+### Feel free to impress your future teammates with your skills in:
 
 - Python 3 or Scala
 - Visualizations in Matplolib or Bokeh
@@ -14,21 +14,21 @@ You don't need to finish the assignment 100% or perfect your code before posting
 - Data structures and algorithms
 - Git (yes, we will read all your commit messages!)
 
-# Your code won't be evaluated for
+### Your code won't be evaluated for
 
 - Extensive/fancy documentation or diagrams. A readable README.md along with clear in-line comments is enough.
 
 It is completely up to you which data processing framework, machine learning library, or visualization tool, etc you use. 
 Just provide us explanation why you have chosen that specific tool for this specific task and in the context of this assignment.
 
-# Non Functional Requirements
+### Non Functional Requirements
 
 1. If using Python, feel free to use Jupyter notebooks as a dev environment but also make sure to include production ready code as .py files along with the model serialization artifacts. 
 2. Create a separate file for loading the saved model and evaluating the results locally. Include clear in-line instructions. 
 3. Code must be pushed to a public Github or CodeCommit repo (temporarily).
 4. The end solution must be deployed and hosted on AWS. Choose any AWS service that you need. 
 
-# Problem statement
+### Problem statement
 
 The attached dataset contains three features about the customers of a business.
 - Customer ID
@@ -44,7 +44,7 @@ Our goal is to build a model to facilitate the analysis and prediction of the cu
 
 Feel free to state and solve any other questions that you find interesting about this data set. Attention to good coding practices and style will be noted. Also, feel free to implement more than one model and compare their performance.
 
-# Final Words
+### Final Words
 
 This mini-assignment is designed carefully to stretch your skills beyond everyday data science tasks. The reason is: we, in the first place, are looking for great software craftsmen. Being at DataChef, you need to be ready for challenges beyond boring data plumbing tasks and finding your way in understanding (sometimes vague) requirements by best guessing (and documenting) your scenarios.
 
