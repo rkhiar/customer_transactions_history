@@ -25,8 +25,7 @@ Just provide us explanation why you have chosen that specific tool for this spec
 
 1. If using Python, feel free to use Jupyter notebooks as a dev environment but also make sure to include production ready code as .py files along with the model serialization artifacts. 
 2. Create a separate file for loading the saved model and evaluating the results locally. Include clear in-line instructions. 
-3. Code must be pushed to a public Github or CodeCommit repo (temporarily).
-4. The end solution must be deployed and hosted on AWS. Choose any AWS service that you need. 
+3. Code must be forked and pushed on your personal Github (temporarily).
 
 ### Problem statement
 
