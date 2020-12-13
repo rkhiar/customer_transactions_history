@@ -19,7 +19,7 @@ import itertools
 
 
 # path definition 
-PATH = '/home/riad/Devs_Python/datachef/customer_transactions_history'
+PATH = '/home/riad/Devs_Python/datachef/customer_transactions_history/rkhiar'
 DATA_PATH = os.path.join(PATH,'data')
 WORK_PATH = os.path.join(PATH,'work')
 

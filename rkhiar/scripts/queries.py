@@ -23,7 +23,7 @@ sns.set()
 
 
 # path definition 
-DATA_PATH = '/home/riad/Devs_Python/datachef/customer_transactions_history/data'
+DATA_PATH = '/home/riad/Devs_Python/datachef/customer_transactions_history/rkhiar/data'
 
 # Load file within my data path
 df = pd.concat(map(lambda file: pd.read_csv(file, delimiter = ',', index_col=0), \
