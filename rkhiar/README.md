@@ -40,7 +40,7 @@ Model applied are :
 - Linear Regression.
 - Support Vector Regression.
 - Gradient Boosting Regression.
-- Recurrent Neural Network.
+- Recurrent Neural Network (it has not been really trained. Just to demonstrate a deep learning approach).  
 
 These models were scored using Rsquared metric (appropriate one for regression case).
 Gradient Boosting Regressor gives the best results with test R2 = 0.79. Model has been saved.  
